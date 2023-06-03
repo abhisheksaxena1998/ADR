@@ -1,5 +1,9 @@
 # Autonomous Indoor Drone
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=abhisheksaxena1998/ADR)
+![stars](https://img.shields.io/github/stars/abhisheksaxena1998/ADR)
+![forks](https://img.shields.io/github/forks/abhisheksaxena1998/ADR)
+
 A level 3 autonomous drone that can pass through gates/windows in indoor environment. 
 
 ## Concept video
